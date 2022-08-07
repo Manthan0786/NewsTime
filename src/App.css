@@ -1,0 +1,13 @@
+.nav-bar-div {
+  position: fixed;
+  width: 100%;
+  background-color: black;
+  overflow: hidden;
+  margin-top: -60px;
+}
+
+.news_container_div {
+  margin-top: 60px;
+}
+
+
